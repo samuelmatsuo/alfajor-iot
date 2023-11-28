@@ -4,8 +4,8 @@
 #include <ESP8266WebServer.h>
 
 //Definição das variáveis de rede
-const char* ssid = "HOME";
-const char* password = "senhasenha";
+const char* ssid = "Samuel";
+const char* password = "arthur123";
 
 //Porta de comunicação padrão 
 ESP8266WebServer server(80);
